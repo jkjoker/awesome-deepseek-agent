@@ -9,6 +9,10 @@ todos, and other tools.
 Every feature is designed for real personal scenarios — helping you
 continuously accumulate and reuse context, experience, tools, and workflows.
 
+DataWork is a continuous exploration of the best way for human-AI
+collaboration — everything is designed to be friendly to both humans
+and agents.
+
 **What sets DataWork apart:**
 
 - **No registration, no login** — fully offline, fully local. Your data
