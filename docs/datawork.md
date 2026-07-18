@@ -16,6 +16,10 @@ and agents.
 Suitable for everyone — regular users and developers alike, no learning
 curve. Especially fitting for those already working deeply with AI.
 
+> DataWork has been developed and tested primarily with DeepSeek models
+> from day one — the DeepSeek integration is not an afterthought, it's
+> the foundation.
+
 **What sets DataWork apart:**
 
 - **No registration, no login** — fully offline, fully local. Your data
