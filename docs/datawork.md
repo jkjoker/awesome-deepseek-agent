@@ -16,9 +16,8 @@ and agents.
 Suitable for everyone — regular users and developers alike, no learning
 curve. Especially fitting for those already working deeply with AI.
 
-> DataWork has been developed and tested primarily with DeepSeek models
-> from day one — the DeepSeek integration is not an afterthought, it's
-> the foundation.
+> DataWork was developed primarily with DeepSeek as its main test model,
+> and the Agent environment integrates with it smoothly.
 
 **What sets DataWork apart:**
 

@@ -11,8 +11,7 @@ DataWork 是一个**本地优先的个人 AI Agent 系统（Windows 桌面应用
 
 普通用户和开发者均合适，没有使用门槛；尤其适合已经在与 AI 深度协作的人。
 
-> DataWork 从开发之初就以 DeepSeek 作为主力测试模型——DeepSeek 集成不是
-> 后期适配，而是从一开始就在用。
+> DataWork 开发时主要以 DeepSeek 作为测试模型，Agent 环境与模型的适配度很好。
 
 **DataWork 的独特优势：**
 
