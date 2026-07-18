@@ -2,8 +2,22 @@
 
 # 在 DataWork 中使用 DeepSeek V4
 
-DataWork 是一个本地优先的个人 AI Agent 系统（Windows 桌面应用），内置通用 Agent、
-Code Agent、记忆、待办、笔记、Python 自动化、插件和 MCP 工具。
+DataWork 是一个**本地优先的个人 AI Agent 系统（Windows 桌面应用）**——
+是你本地上下文中心与行动层，把文件、AI 对话、笔记、待办和其他工具连接在一起。
+
+每一项功能都从个人真实需求出发——帮助你持续积累和复用上下文、经验、工具和工作流。
+
+**DataWork 的独特优势：**
+
+- **无需注册、无需登录** — 完全离线、完全本地，数据只留在你的电脑上。
+- **中英文双语界面** — 兼顾国内外用户。
+- **原生 Windows 桌面应用** — 界面清晰直观。
+- **双 Agent 系统** — 通用 Agent（日常对话、信息整理）+ Code Agent（编码、调试、多轮工具调用）；两者共享模型、记忆、待办、插件和 MCP 配置。
+- **MCP 生态** — 既可接入外部 MCP Server，也可将自身记忆库和 Todo 系统开放为 MCP Server，供 Cursor、Claude Desktop、Claude Code 等其他 Agent 工具直接连接调用。
+- **Python 插件系统** — 写一个 `.py` 文件即插件，两个 Agent 立刻能调用。
+- **10 家 AI 供应商** — DeepSeek、Kimi、小米 MiMo、Qwen、GLM、OpenAI、Claude、Gemini、OpenRouter、Ollama，统一在一个工作台中管理。
+- **记忆 + 待办 + 笔记 + Coder 编辑器 + Python + 插件** — 全内置，保持极致的开放性，能力拓展方便，也适合与其他 Agent 集成。
+- **Code Agent 能力完整** — Skill、Claw、Workflow、ACP 等功能一应俱全，与行业前沿对齐，实用性极强。接入 DeepSeek 时，缓存命中率可达 95%。
 
 通过 DeepSeek 供应商，DataWork 支持 `deepseek-v4-flash` 和 `deepseek-v4-pro`
 两个 V4 模型，包括流式输出、思考模式、思考强度控制和工具调用能力。

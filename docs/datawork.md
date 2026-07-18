@@ -2,13 +2,39 @@
 
 # Use DeepSeek V4 with DataWork
 
-DataWork is a local-first personal AI Agent system for Windows. It provides
-general agents, a code agent, memory, todos, notes, Python automation, plugins,
-and MCP tools within a single local workspace.
+DataWork is a **local-first personal AI Agent system for Windows** — your
+local context hub and action layer between files, AI conversations, notes,
+todos, and other tools.
 
-DeepSeek V4 models (`deepseek-v4-flash` and `deepseek-v4-pro`) are supported
-through DataWork's built-in DeepSeek provider, with streaming, thinking mode,
-reasoning effort control, and tool calling.
+Every feature is designed for real personal scenarios — helping you
+continuously accumulate and reuse context, experience, tools, and workflows.
+
+**What sets DataWork apart:**
+
+- **No registration, no login** — fully offline, fully local. Your data
+  stays on your machine.
+- **Multi-language UI** (English / Chinese) — designed for both domestic
+  and international users.
+- **Native Windows desktop app** — clear, intuitive interface.
+- **Dual-Agent system** — General Agent (daily chat, info organization) +
+  Code Agent (coding, debugging, multi-round tool calls); both share
+  model config, memory, todos, plugins, and MCP.
+- **MCP ecosystem** — connect external MCP servers, AND expose DataWork's
+  own memory and Todo system as an MCP server for Cursor, Claude Desktop,
+  Claude Code, and other agent tools to use.
+- **Python plugin system** — drop a `.py` file to extend; both Agents can
+  call the same plugin immediately.
+- **10 AI providers** — DeepSeek, Kimi, Xiaomi MiMo, Qwen, GLM, OpenAI,
+  Claude, Gemini, OpenRouter, Ollama — all in one workspace.
+- **Memory + Todo + Notes + Coder + Python + Plugins** — everything
+  built in, fully open and extensible, easy to integrate with other agents.
+- **Full-featured Code Agent** — Skills, Claw scheduling, Workflows, ACP
+  protocol — all built in. When connected to DeepSeek, cache hit rate
+  reaches 95%.
+
+DeepSeek V4 models (`deepseek-v4-flash` and `deepseek-v4-pro`) are fully
+supported through DataWork's built-in DeepSeek provider, with streaming,
+thinking mode, reasoning effort control, and tool calling.
 
 ## 1. Install DataWork
 
