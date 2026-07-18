@@ -76,6 +76,9 @@ login required.
 When `deepseek` is selected, the Base URL is pre-filled automatically.
 Click `添加模型 / Add` to save.
 
+Built-in pricing for both models is automatically recognized — no manual
+entry needed.
+
 ## 4. Create an Agent
 
 1. Open **Settings** → **General Agent** → **Agent Management**.

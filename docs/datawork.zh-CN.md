@@ -56,6 +56,8 @@ DataWork 是一个**本地优先的个人 AI Agent 系统（Windows 桌面应用
 
 选择 `deepseek` 后 Base URL 会自动填入。点击**添加模型**保存。
 
+模型添加后，DataWork 会自动识别这两个模型的内置价格信息，无需手动填写。
+
 ## 4. 创建 Agent
 
 1. 进入 **设置** → **通用 Agent** → **Agent 管理**。
