@@ -13,6 +13,9 @@ DataWork is a continuous exploration of the best way for human-AI
 collaboration — everything is designed to be friendly to both humans
 and agents.
 
+Suitable for everyone — regular users and developers alike, no learning
+curve. Especially fitting for those already working deeply with AI.
+
 **What sets DataWork apart:**
 
 - **No registration, no login** — fully offline, fully local. Your data
